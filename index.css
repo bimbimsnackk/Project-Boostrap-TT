@@ -1,0 +1,120 @@
+*{
+    font-family: "Roboto", sans-serif;
+    margin: 0 auto;
+}
+.wrapper-header{
+    width: 1920px;
+    height: 270px;
+}
+.top-bar {
+    width: 1920px;
+    height: 70px;
+    background-color: #353535;
+}
+.top-bar p {
+    font-size: 16px;
+    color: #fff;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.top-bar .flex-row-left {
+    width: 600px;
+    height: 70px;
+    float: left;
+    margin-left: 150px;
+}
+.top-bar .flex-row-center {
+    width: 800px;
+    height: 70px;
+    float: left;
+}
+.top-bar .flex-row-right {
+    width: 300px;
+    height: 70px;
+    float: left;
+}
+.top-bar .flex-row-right i {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-left: 15px;
+    color: white;
+    cursor: pointer;
+}
+.top-bar .flex-row-right i:hover {
+    color: darkgoldenrod;
+}
+.header-inner {
+    width: 1920px;
+    height: 150px;
+    background-color: #353535;
+}
+.header-inner_logo {
+    width: 400px;
+    height: 150px;
+    float: left;
+    margin-left: 170px;
+}
+.header-inner_logo img {
+    width: 400px;
+    height: 120px;
+    margin-top: 15px;
+}
+.header-inner .flex-row-relative {
+    width: 600px;
+    height: 150px;
+    float: left;
+}
+.header-inner .flex-row-relative input {
+    width: 350px;
+    height: 60px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border-radius: 10px 10px 10px 10px;   
+}
+.header-inner .flex-row-login {
+    width: 630px;
+    height: 150px;
+    float: left;
+    margin-left: 70px;
+}
+.header-inner .flex-row-login ul {
+    width: 130px;
+    height: 80px;
+    float: left;
+    margin-top: 35px;
+}
+.header-inner .flex-row-login ul h1 {
+   font-size: 20px;
+   line-height: 20px;
+   color: white;
+   margin-top: 30px;
+}
+.header-inner .flex-row-login ul i {
+    font-size: 24px;
+    margin-top: 20px;
+    color: white;
+    cursor: pointer;
+}
+.navigation-bar {
+    width: 1920px;
+    height: 50px;
+    float: left;
+    background-color: #353535;
+}
+#danhmuc nav{
+    background-color: #353535;
+}
+#danhmuc li {
+    margin-left: 40px;
+}
+#danhmuc li a {
+    font-weight: 700;
+    line-height: 16px;
+}
+#danhmuc li a:hover {
+    color: #c89979;
+}
+#carouselExampleControls {
+    width: 1920px;
+    height: 600px;
+}
